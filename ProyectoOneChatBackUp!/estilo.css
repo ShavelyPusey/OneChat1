@@ -1,0 +1,32 @@
+.fecha {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10px;
+color: #000000;
+}
+.mensaje {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11px;
+color: #000000;
+}
+.usuario {
+font-family: Arial,Helvetica, sans-serif;
+font-size: 11px;
+color: #000000;
+font-weight: bold;
+}
+.fechagm {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10px;
+color: #FF0000;
+}
+.mensajegm {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11px;
+color: orange;
+}
+.usuariogm {
+font-family: Arial,Helvetica, sans-serif;
+font-size: 11px;
+color: #3D9140;
+font-weight: bold;
+}
